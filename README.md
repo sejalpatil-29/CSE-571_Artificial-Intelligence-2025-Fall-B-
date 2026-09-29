@@ -1,13 +1,9 @@
-# CSE-571_Artificial-Intelligence-2025-Fall-B-
 # CSE 571 – Neural Network for Collision Prediction
 
 A small simulated robot (pygame + pymunk) wanders a walled arena. I collect data
 on what happens when it takes an action, train a PyTorch network to **predict
 whether an action will cause a collision**, then use that network so the robot
 can seek goals while only choosing actions it thinks are safe.
-
-Course: CSE 571 Artificial Intelligence (Fall B, 2025). Spec: see
-`CSE 571_Neural Network for Collision Prediction_Project_Overview Document.pdf`.
 
 ---
 
